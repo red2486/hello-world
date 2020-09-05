@@ -1,0 +1,94 @@
+/* 
+fonts
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+/* 
+varibles
+*/
+
+:root {
+--clr-primary-1: hsl(205, 86%, 17%);
+--clr-primary-2: hsl(205, 77%, 17%);
+--clr-primary-3: hsl(205, 86%, 17%);
+--clr-primary-4: hsl(205, 86%, 17%);
+--clr-primary-5: hsl(205, 86%, 17%);
+--clr-primary-6: hsl(205, 86%, 17%);
+--clr-primary-7: hsl(205, 86%, 17%);
+--clr-primary-8: hsl(205, 86%, 17%);
+--clr-primary-9: hsl(205, 86%, 17%);
+--clr-primary-10: hsl(205, 86%, 17%);
+}
+
+/* 
+global styles
+*/
+
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+font-family: var();
+ background: var();
+ color: var();
+ line-height: 1.5;
+ font-size: 0.875rem;
+}
+ul {
+
+}
+a {
+
+}
+h1,
+h2,
+h3,
+h4 {
+
+}
+h1 {
+
+}
+h2 {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+p {
+
+}
+
+
+/* 
+section
+*/
+
+/* 
+nav
+*/
+
+/* 
+container
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
